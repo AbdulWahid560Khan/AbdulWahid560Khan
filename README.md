@@ -17,8 +17,7 @@
 - 🔐 Passionate about building intelligent agents for cyber defense
 - 🌱 Currently learning **Cybersecurity Management** & **Cisco CCNA (R&S)**
 - 🧰 Exploring ethical hacking tools like **Kali Linux** and **Metasploit**
-- 📫 Reach me at: **B24F0570CYS128@paf-iast.edu.pk**
-
+- 📫 Reach me at: **awahidkhan2030@gmail.com**
 ---
 
 ### 💼 Tech Stack
@@ -67,4 +66,7 @@
 
 - 📧 Email: **awahdidkhan2030@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/abdulwahidkhan](https://www.linkedin.com/)
-
+- 📱  Phone Number : **+92 337 170170 5**
+-    
+-    
+-    
